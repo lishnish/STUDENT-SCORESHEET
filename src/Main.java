@@ -89,8 +89,9 @@ public class Main{
                 }
             }
 
-            double[] completeTotals = new double[7];
-            double[] completeTotalsAverage = new double[7];
+            int subjectNumber = 6;
+            double[] completeTotals = new double[subjectNumber + 1];
+            double[] completeTotalsAverage = new double[subjectNumber + 1];
             for (int i = 0; i < reportCardNumber; i++) {
                 completeTotals[0] += englishGrades[i];
                 completeTotals[1] += mathGrades[i];
@@ -101,7 +102,7 @@ public class Main{
                 completeTotals[6] += totalGrades[i];
             }
 
-            for (int i = 0; i <= reportCardNumber; i++) {
+            for (int i = 0; i <= subjectNumber; i++) {
                 completeTotalsAverage[i] = completeTotals[i] / reportCardNumber;
             }
 
