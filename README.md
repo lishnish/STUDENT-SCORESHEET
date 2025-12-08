@@ -1,3 +1,4 @@
+#### Report card System
 
 A command-line application built in Java that allows educators to input student grades across multiple subjects, calculate total scores, assign letter ranks, and generate a formatted, comprehensive class report card summary
 
@@ -38,4 +39,4 @@ Prerequisites
 
 #### Example output
 
-![[Pasted image 20251209015855.png]]
+![Screenshot](Pasted image 20251209015855.png)
