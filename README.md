@@ -39,4 +39,4 @@ Prerequisites
 
 #### Example output
 
-![Screenshot](Pasted image 20251209015855.png)
+![Screenshot](Pasted%20image%2020251209015855.png)
