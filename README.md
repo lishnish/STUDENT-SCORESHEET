@@ -40,8 +40,13 @@ Prerequisites
     ```shell
     java Main
     ```
+
+Franklin's Repository: 
+https://github.com/franklin-mk/STUDENT-SCORESHEET
+
 #### Video recording 
 https://drive.google.com/file/d/1YqcBMwE2QziMzF-2QC1AZ37z1RRzWiwq/view?usp=sharing
+
 #### Example output
 
 <img width="1236" height="449" alt="OUTPUT screenshot" src="https://github.com/user-attachments/assets/657b2b3a-9b06-4eca-a885-64857483e0d5" />
