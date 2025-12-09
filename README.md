@@ -43,4 +43,5 @@ Prerequisites
 
 #### Example output
 
-![Screenshot](SampleOutput.png)
+<img width="1236" height="449" alt="OUTPUT screenshot" src="https://github.com/user-attachments/assets/657b2b3a-9b06-4eca-a885-64857483e0d5" />
+
