@@ -40,8 +40,8 @@ Prerequisites
     ```shell
     java Main
     ```
-
-Franklin's Repository: 
+####
+#### Franklin's Repository: 
 https://github.com/franklin-mk/STUDENT-SCORESHEET
 
 #### Video recording 
